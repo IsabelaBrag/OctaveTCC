@@ -1,0 +1,2 @@
+# OctaveTCC
+ algoritmo simulacao
